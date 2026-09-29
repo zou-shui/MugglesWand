@@ -1,5 +1,7 @@
 # Muggles' Wand - 基于TinyML的动力学手势分类魔杖
 
+立创开源平台链接：[Muggles' Wand - 给麻瓜设计的魔杖 - 立创开源硬件平台](https://oshwhub.com/zoushui/project_zfbqlpxs)
+
 ## 项目简介
 
 这是一根魔杖，但，是给麻瓜[^1]用的。
