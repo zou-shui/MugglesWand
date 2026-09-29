@@ -10,7 +10,7 @@
 
 ## 视频链接
 
-[【开源】给麻瓜的魔杖]()
+[【开源】给麻瓜的魔杖](https://www.bilibili.com/video/BV14XaJ6nEzr/?share_source=copy_web&vd_source=b9a966f3c62fa9746bb00910b5fc0d9c)
 
 ## 项目特点
 
