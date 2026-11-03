@@ -95,9 +95,7 @@
 在接入 Home Assistant（HA）前，需在 HA 里完成三件事：
 
 1. 在 Home Assistant OS 的 “设置 → 应用” 中安装 Mosquitto broker 并启动。
-
 2. 在 “设置 → 设备与服务 → 集成” 里添加MQTT。
-
 3. 在 “设置 → 人员 → 用户” 里新建用户，并勾选“仅限本地访问”。
 
 然后进入魔杖 Web 界面的“参数配置”页面，填写 Wi-Fi SSID 和密码、MQTT 服务器（Broker）地址、上一步新建的 HA 用户名和密码。保存后重启魔杖，HA 即可自动发现魔杖。
