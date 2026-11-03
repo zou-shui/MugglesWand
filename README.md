@@ -14,6 +14,8 @@
 
 [【开源】给麻瓜的魔杖](https://www.bilibili.com/video/BV14XaJ6nEzr/?share_source=copy_web&vd_source=b9a966f3c62fa9746bb00910b5fc0d9c)
 
+[麻瓜魔杖固件升级，现已支持Home Assistant]( https://www.bilibili.com/video/BV1rT4G6gEWv/?share_source=copy_web&vd_source=b9a966f3c62fa9746bb00910b5fc0d9c)
+
 ## 项目特点
 
 - 哈利波特初代魔杖外形，内置RGB灯带提供施法光效。
